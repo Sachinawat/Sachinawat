@@ -41,6 +41,11 @@
 
 [<img align="left" alt="Sachin | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 
+
+[linkedin]: https://www.linkedin.com/in/sachin-awati-7b886b1a1/
+[Instagram]: https://www.instagram.com/sachinmawati/
+
+
                                                                                                                                                            
 
 <br>
