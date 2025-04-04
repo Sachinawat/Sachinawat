@@ -11,6 +11,10 @@
 * Python 
 * Natural Language Processing
 * MLOps
+* NLP
+* RAG
+* Fine Tuning
+* STT & TTS Models
 * MySQL
 * Power BI 
 * Statistics
